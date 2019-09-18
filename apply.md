@@ -1,6 +1,6 @@
 No. | Name | Agile | Algo | App | Arch | C-like | Database | Network | Shell | Sysbuild
 ----|------|-------|------|-----|------|--------|----------|---------|-------|---------
-0 | 博妮 | Agile | Algo | App | Arch | C-like | Database | Network | Shell | Sysbuild
+0 | 博妮 | :heart: | :heart: | :heart: | :heart: | :heart: | :heart: | :heart: | :heart: | :heart:
 1 | 伊登 | Agile | Algo | App | Arch | C-like | Database | Network | Shell | Sysbuild
 2 | 启闻 | Agile | Algo | App | Arch | C-like | Database | Network | Shell | Sysbuild
 3 | 埼玉 | Agile | Algo | App | Arch | C-like | Database | Network | Shell | Sysbuild
